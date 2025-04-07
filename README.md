@@ -88,3 +88,10 @@ Hi! I'm Riken, a Unity game developer ready to bring your game ideas to life. I 
     </a>
   </div>
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rikenfree/rikenfree/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rikenfree/rikenfree/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rikenfree/rikenfree/output/github-snake.svg" />
+</picture>
