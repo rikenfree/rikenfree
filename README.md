@@ -3,7 +3,7 @@
   <img src="./header-game-dev.png" alt="Unity Game Developer Banner" width="100%">
 </div>
 
-# <div align="center">👾 Riken Sonani</div>
+# <div align="center">👾 Riken Sonani <img src="https://komarev.com/ghpvc/?username=riken96&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></div>
 ## <div align="center">**Professional Unity Game Developer | AR/VR Specialist**</div>
 
 <div align="center">
@@ -88,32 +88,15 @@ Hi! I'm Riken, a Unity game developer ready to bring your game ideas to life. I 
 ## 📬 Contact Me
 
 <div align="center" style="background-color:#121212; padding:20px; border-radius:10px;">
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="📨" width="25" height="25"> Contact Me</h2>
-  
-  <div style="display:flex; justify-content:center; gap:15px; margin:20px 0;">
+  <div style="display:flex; justify-content:center; gap:20px; margin:20px 0;">
     <a href="https://linkedin.com/in/rikensonani" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45"/>
     </a>
     <a href="mailto:rikensonani96@gmail.com" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
+      <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="45"/>
     </a>
     <a href="https://www.upwork.com/freelancers/rikensonani2" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/UPWORK-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" height="40"/>
+      <img src="https://img.shields.io/badge/UPWORK-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" height="45"/>
     </a>
-  </div>
-  
-  <div style="margin-top:10px; background-color:#1E1E1E; padding:15px; border-radius:5px; text-align:left;">
-    <div style="font-family:monospace; font-size:16px; color:#E5E5E5;">
-      <pre>
-if (needGameDeveloper) {
-    contact("rikensonani96@gmail.com");
-    console.log("Let's create an amazing game together!");
-}
-      </pre>
-    </div>
-  </div>
-  
-  <div style="margin-top:15px;">
-    <img src="https://komarev.com/ghpvc/?username=riken96&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </div>
 </div>
