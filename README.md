@@ -14,18 +14,6 @@
 
 <img align="right" alt="Game Developer Coding" width="380" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-<p align="left">
-  <a href="https://www.upwork.com/freelancers/rikensonani2">
-    <img src="https://img.shields.io/badge/Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.nbi.xana">
-    <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
-  </a>
-  <a href="https://apps.apple.com/us/app/pool-payday-8-ball-pool-game/id1442117794">
-    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
-  </a>
-</p>
-
 ## 🎮 About Me
 
 Hi! I'm Riken, a Unity game developer ready to bring your game ideas to life. I build games for mobile, VR/AR, and Web3 platforms that run smoothly and keep players engaged.
