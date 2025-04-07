@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="./header-game-dev.png" alt="Unity Game Developer Banner" width="100%">
+  <img src="./rikenheader2.png" alt="Unity Game Developer Banner" width="100%">
 </div>
 
 # <div align="center">👾 Riken Sonani</div>
