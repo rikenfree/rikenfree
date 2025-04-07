@@ -1,9 +1,9 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img src="./header-game-dev.png" alt="Unity Game Developer Banner" width="100%">
+  <img src="./rikenheader2.png" alt="Unity Game Developer Banner" width="100%">
 </div>
 
-# <div align="center">👾 Riken Sonani <img src="https://komarev.com/ghpvc/?username=riken96&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></div>
+# <div align="center">👾 Riken Sonani <img src="https://komarev.com/ghpvc/?username=rikenfree&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></div>
 ## <div align="center">**Professional Unity Game Developer | AR/VR Specialist**</div>
 
 <div align="center">
