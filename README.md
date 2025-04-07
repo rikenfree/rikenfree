@@ -14,7 +14,7 @@
 
 ## 🎮 About Me
 
-<img align="right" alt="Pac-Man Game" width="380" src="https://raw.githubusercontent.com/rikenfree/rikenfree/main/pacman.gif">
+<img align="right" alt="Game Developer Coding" width="380" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 Hi! I'm Riken, a Unity game developer ready to bring your game ideas to life. I build games for mobile, VR/AR, and Web3 platforms that run smoothly and keep players engaged.
 
