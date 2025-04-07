@@ -12,9 +12,9 @@
   <h3>🌟 9000+ Hours of Professional Experience 🌟</h3>
 </div>
 
-<img align="right" alt="Game Developer Coding" width="380" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
-
 ## 🎮 About Me
+
+<img align="right" alt="Game Developer Coding" width="380" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 Hi! I'm Riken, a Unity game developer ready to bring your game ideas to life. I build games for mobile, VR/AR, and Web3 platforms that run smoothly and keep players engaged.
 
@@ -70,7 +70,7 @@ Hi! I'm Riken, a Unity game developer ready to bring your game ideas to life. I 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riken96&show_icons=true&theme=tokyonight" alt="Riken's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rikenfree&show_icons=true&theme=tokyonight" alt="Riken's GitHub Stats" />
 </div>
 
 ## 📬 Contact Me
